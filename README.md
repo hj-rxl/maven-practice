@@ -15,4 +15,4 @@
 
 4. VCS git을 활용하기 위해 remote repository 제공하는 대표적 서비스인 github가 있습니다.
 - 원격 저장소에 기록된 최신의 기록점을 local repository로 내려받는 동작은?
-- 원격 저장소에 기록된 프로젝트 전체 내용을 복제해서 local repository로 만드는 동작은?  //
+- 원격 저장소에 기록된 프로젝트 전체 내용을 복제해서 local repository로 만드는 동작은?  ////
